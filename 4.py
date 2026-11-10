@@ -1,4 +1,4 @@
-words = ["fox", "cat", "dog", "cat", "eagle", "fox"]
+words = ["лиса", "кошка", "собака", "кошка", "орёл", "лиса"]
 
 d1 = {}
 for i in words:
